@@ -3,7 +3,7 @@ What has been your experience with X (check all that apply):
 I wasn't aware of its existence
 I don't really understand what it's for
 I can do without
-It is known to not work in my environment
+Doesn't work in my environment
 The author(s)' past work influenced my choice positively
 The author(s)' past work influenced my choice negatively
 I want to avoid dealing with the authors
@@ -19,6 +19,10 @@ I wanted to give it a try but haven't done it yet
 I tried to install it but failed and gave up
 I installed it but I couldn't make it work and gave up
 I managed to test it but decided not to use it
+Too complicated to use
+Not efficient enough
+Too many bugs
 I'm using it
 I miss a number of features
 I modified it to suit my own purposes
+I love it
